@@ -1,0 +1,259 @@
+{
+  "block_hours": {
+    "mon": [
+      [
+        "06:00",
+        "22:00"
+      ]
+    ],
+    "tue": [
+      [
+        "06:00",
+        "22:00"
+      ]
+    ],
+    "wed": [
+      [
+        "06:00",
+        "22:00"
+      ]
+    ],
+    "thu": [
+      [
+        "06:00",
+        "22:00"
+      ]
+    ],
+    "fri": [
+      [
+        "06:00",
+        "22:00"
+      ]
+    ],
+    "sat": [
+      [
+        "08:00",
+        "18:00"
+      ]
+    ],
+    "sun": [
+      [
+        "08:00",
+        "18:00"
+      ]
+    ]
+  },
+  "kill_process_names": [
+    "steam",
+    "steamwebhelper",
+    "minecraft-launcher",
+    "minecraftlauncher",
+    "minecraft.windows",
+    "tlauncher",
+    "valorant",
+    "valorant-win64-shipping",
+    "riotclientservices",
+    "riotclientux",
+    "riotclientuxrender",
+    "robloxplayerbeta",
+    "robloxplayerlauncher",
+    "robloxstudiobeta",
+    "robloxstudiolauncherbeta",
+    "sober",
+    "epicgameslauncher",
+    "galaxyclient"
+  ],
+  "kill_if_path_contains": [
+    "steamapps",
+    "riot games",
+    ".minecraft",
+    "tlauncher",
+    "roblox",
+    "org.vinegarhq.sober",
+    "epic games"
+  ],
+  "blocked_sites": [
+    "tiktok.com",
+    "tiktokv.com",
+    "tiktokcdn.com",
+    "vm.tiktok.com",
+    "m.tiktok.com",
+    "youtube.com",
+    "m.youtube.com",
+    "music.youtube.com",
+    "youtu.be",
+    "youtube-nocookie.com",
+    "twitch.tv",
+    "m.twitch.tv",
+    "clips.twitch.tv",
+    "kinogo.biz",
+    "kinogo.cc",
+    "kinogo.inc",
+    "kinogo.by",
+    "kinogo.net",
+    "kinogo.film",
+    "kinogo.la",
+    "kinogo.zone",
+    "kinogo.co",
+    "kinogo.uk",
+    "kinogo.media",
+    "kinogo.fm",
+    "kinogo.pro",
+    "kinogo.online",
+    "kinogo.me",
+    "kinogo.tv",
+    "kinogo.ec",
+    "kinogo.su",
+    "roblox.com",
+    "web.roblox.com",
+    "rbxcdn.com",
+    "roblox.qq.com",
+    "animego.org",
+    "animego.me",
+    "animego.club",
+    "jut.su",
+    "anilibria.tv",
+    "aniliberty.top",
+    "anilibria.top",
+    "yummyanime.club",
+    "yummy-anime.ru",
+    "yummyani.me",
+    "animevost.org",
+    "v2.vost.pw",
+    "animevost.am",
+    "anime.online",
+    "anime-online.su",
+    "animedia.online",
+    "online.anidub.com",
+    "anidub.com",
+    "anistar.org",
+    "sovetromantica.com",
+    "shikimori.one",
+    "shikimori.me",
+    "crunchyroll.com",
+    "hianime.to",
+    "aniwave.to",
+    "9anime.to",
+    "gogoanime3.co",
+    "anitaku.to",
+    "zoro.to",
+    "kodik.info",
+    "kodik.biz",
+    "aniboom.one",
+    "store.steampowered.com",
+    "steampowered.com",
+    "steamcommunity.com",
+    "help.steampowered.com",
+    "epicgames.com",
+    "store.epicgames.com",
+    "gog.com",
+    "playvalorant.com",
+    "riotgames.com",
+    "minecraft.net",
+    "tlauncher.org",
+    "ru.tlauncher.org",
+    "minecraftrating.ru",
+    "curseforge.com",
+    "modrinth.com",
+    "rutracker.org",
+    "rutor.info",
+    "rutor.is",
+    "nnmclub.to",
+    "thepiratebay.org",
+    "1337x.to",
+    "byrutor.org",
+    "byrut.org",
+    "thelastgame.ru",
+    "igruha.org",
+    "torrent-igruha.org",
+    "fitgirl-repacks.site",
+    "itch.io",
+    "crazygames.com",
+    "crazygames.ru",
+    "poki.com",
+    "y8.com",
+    "playhop.com",
+    "kongregate.com"
+  ],
+  "plan": {
+    "weekday": [
+      [
+        "06:00",
+        "07:00",
+        "Wake up, breakfast, no phone"
+      ],
+      [
+        "07:00",
+        "15:00",
+        "School"
+      ],
+      [
+        "15:00",
+        "16:00",
+        "Lunch + rest (walk, not games)"
+      ],
+      [
+        "16:00",
+        "17:30",
+        "Olympiad C++: solve problems"
+      ],
+      [
+        "17:30",
+        "17:45",
+        "Break"
+      ],
+      [
+        "17:45",
+        "19:30",
+        "Homework / exam prep"
+      ],
+      [
+        "19:30",
+        "20:00",
+        "Dinner"
+      ],
+      [
+        "20:00",
+        "21:00",
+        "Olympiad C++: theory or upsolve"
+      ],
+      [
+        "21:00",
+        "22:00",
+        "Free time (no games until 22:00)"
+      ]
+    ],
+    "weekend": [
+      [
+        "08:00",
+        "09:00",
+        "Wake up, breakfast"
+      ],
+      [
+        "09:00",
+        "12:00",
+        "Olympiad C++: virtual contest"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Lunch"
+      ],
+      [
+        "13:00",
+        "15:00",
+        "Upsolve contest problems"
+      ],
+      [
+        "15:00",
+        "18:00",
+        "Exam prep / homework"
+      ],
+      [
+        "18:00",
+        "23:00",
+        "Free, you earned it"
+      ]
+    ]
+  }
+}
